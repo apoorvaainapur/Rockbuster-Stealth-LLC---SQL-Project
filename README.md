@@ -40,6 +40,6 @@ Visualizations:
 Check out the [Tableau Public dashboard](https://public.tableau.com/app/profile/apoorva.ainapur/viz/Ex3_10_17074022508360/Revenuewisetopcountries) for interactive insights.
 
 Final Project PDF: 
-Find a detailed report in the [Final Project PDF]().
+Find a detailed report in the [Final Project PDF](https://github.com/apoorvaainapur/Rockbuster-Stealth-LLC-SQLAnalysis/blob/main/Ex%203.10.pdf).
 
 This repository showcases not just technical SQL capabilities but also the ability to convert data into strategic business outcomes.
